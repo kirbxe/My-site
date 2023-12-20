@@ -1,0 +1,239 @@
+.logo img {
+width: 47px;
+height: 47px;
+margin:0;
+margin-top: 15px;
+}
+.logo {
+margin-top: 100px;
+margin-left: 100px;
+
+
+}
+.lineheadfoot{
+margin: 0;
+    border: 1px solid black;
+}
+
+.lineheadfoots{
+margin: 0;
+    border: 1px solid black;
+    box-shadow: 0px 3px 4px rgb(31, 31, 31);
+    
+}
+.lineheadfootss{
+    margin: 0;
+    border: 1px solid black;
+ margin-top: 100px;
+ box-shadow: -0px -3px -4px rgb(31, 31, 31);
+
+}
+
+
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+
+#mainnav ul {
+
+    list-style: none;
+    margin: 0;
+   text-align: center;
+   justify-content: center;
+  
+    
+}
+
+.headnotline{
+    display:flow-root
+    
+     
+}
+#mainnav li{
+
+text-align: center;
+    display: inline-flex; 
+    
+}
+
+
+#mainnav a {
+position: relative;
+top: -33px;
+    text-decoration: none;
+    margin-right: 80px;
+    color: black;
+
+
+}
+nav{
+
+    margin-top: 0;
+font-style:unset
+}
+
+
+.pp {
+font-style: oblique;
+}
+
+.visit {
+
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction:row-reverse;
+    font-size: large;
+}
+main{
+
+    width: 1400px;
+}
+.textvisit{
+
+margin-top: 200px;
+margin-right: 40px;
+
+}
+.namep{
+
+    font-size: 40px;
+}
+.betweenline {
+
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 270px;
+width: 1350px;
+
+}
+
+h1  { 
+    
+    text-align: center;
+   
+    margin-left: 480px;
+
+    margin-bottom: 0;
+
+}
+.intextline{
+
+margin-top: 15px;
+margin-bottom: 15px;
+width: 170px;
+margin-left: 855px;
+}
+.pp1{
+    font-style: oblique;
+    text-align: center;
+    margin-left:480px;
+}
+.uslugicard{
+
+width: 290px;
+height: 272px;
+background-color: rgb(235, 235, 235);
+
+
+}
+.imgcard{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.textcard0{
+
+text-align: center;
+margin: 0;
+
+}
+.textcard1{
+text-align: center;
+font-style: oblique;
+margin-left: 10px;
+margin-right: 10px;
+}
+.linecard{
+
+width: 100px;
+
+}
+.uslug{display: flex;
+    flex-grow: 1;
+    justify-content: space-between; width: 1000px;
+margin-left: 436px;
+margin-top: 50px;
+}
+.portfotext{
+
+margin:0;
+padding: 0;
+
+}
+.card{
+    text-align: center;
+
+}
+.thinportfo{
+
+    font-style: oblique;
+
+
+}
+.portfo1{
+    position: relative;
+    left: 280px;
+  text-align: center;
+display: inline-block;
+
+
+}
+.portfo2{
+position: relative;
+left: 400px;
+    display: inline-block;
+    text-align: center;
+}
+.footlogo{
+
+    text-align: center;
+    margin: 10px;
+}
+.footlogo img {
+width: 60px;
+
+}
+.soclogo{
+padding-left: 20px;
+    width: 45px; 
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.sociallogo{
+    position: relative;
+    left: -550px;
+    bottom: -17px;
+    
+    
+}
+.textfooter{
+
+    position: relative;
+    bottom: -10px;
+    right: -250px;
+}
+
+.card:hover {
+box-shadow: 0px 0px 3px 5px rgb(119, 119, 119);
+
+
+}
+.card a{
+    text-decoration: none;
+    color: black;
+    
+}
